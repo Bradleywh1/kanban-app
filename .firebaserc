@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanban-app-b8e51": {
+      "hosting": {
+        "trello": [
+          "kanban-app-b8e51"
+        ]
+      }
+    }
+  }
+}
