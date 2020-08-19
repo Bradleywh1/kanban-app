@@ -53,7 +53,7 @@ $trello-warn: mat-palette($mat-red);
 
 // Create the theme object. A theme consists of configurations for individual
 // theming systems such as "color" or "typography".
-$trello-theme: mat-light-theme($trello-primary, $trello-accent, $trello-warn);
+$trello-theme: mat-dark-theme($trello-primary, $trello-accent, $trello-warn);
 
 // Include theme styles for core and each component used in your app.
 // Alternatively, you can import and @include the theme mixins for each component
